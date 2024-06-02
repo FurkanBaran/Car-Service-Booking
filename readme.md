@@ -1,6 +1,7 @@
 # Car Service Booking System
 
-This project is an appointment booking system where users can book appointments with service providers and administrators can manage these appointments.
+This project is an appointment booking system where users can book appointments with service providers and administrators can manage these appointments. It was created based on specific requests and requirements. It was developed in Turkish to meet the client's needs. The technologies used, such as PHP for the backend, MySQL for the database, and Bootstrap and jQuery for the frontend, were selected based on the client's requests and constraints.
+
 
 ## Features
 
