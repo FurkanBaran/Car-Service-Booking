@@ -62,6 +62,8 @@ To set up the project locally, follow these steps:
     ```
 5. **Run the Project**
     Open your web browser and navigate to http://localhost/Car-Service-Booking to run the project. You can now test the functionality and make sure everything is working as expected.
+## Live Demo
+https://car-service.furkanbaran.com
 
 ## Screenshots
 ![Ekran görüntüsü 2024-06-02 181455](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/eb00e066-4dbf-4533-a77b-a3ebe8c6b9d4)
