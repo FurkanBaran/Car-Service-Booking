@@ -64,3 +64,18 @@ To set up the project locally, follow these steps:
     Open your web browser and navigate to http://localhost/Car-Service-Booking to run the project. You can now test the functionality and make sure everything is working as expected.
 
 ## Screenshots
+![Ekran görüntüsü 2024-06-02 181455](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/eb00e066-4dbf-4533-a77b-a3ebe8c6b9d4)
+![Ekran görüntüsü 2024-06-02 181523](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/e5b6e9e5-988f-4314-9fb4-15389e887505)
+![Ekran görüntüsü 2024-06-02 181546](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/e3779ddd-5c4a-41a8-9dc8-2f7311488be9)
+![Ekran görüntüsü 2024-06-02 181652](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/c1491f77-aca6-46d8-b477-ea45b61fec23)
+![Ekran görüntüsü 2024-06-02 181709](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/9c25c079-e972-4fb9-9a4e-2535ef2ea8bd)
+![Ekran görüntüsü 2024-06-02 181725](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/40810201-673e-4fab-b15f-232996b56c71)
+![Ekran görüntüsü 2024-06-02 181800](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/a4c35f21-30e1-408a-a99e-537292dfc5ac)
+![Ekran görüntüsü 2024-06-02 181805](https://github.com/FurkanBaran/Car-Service-Booking/assets/21145014/3c3f3ae8-230f-4a62-8a07-61cb0d23ef78)
+
+
+
+
+
+
+
