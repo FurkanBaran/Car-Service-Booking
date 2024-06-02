@@ -1,4 +1,4 @@
-# Appointment Booking System
+# Car Service Booking System
 
 This project is an appointment booking system where users can book appointments with service providers and administrators can manage these appointments.
 
